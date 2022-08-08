@@ -1,12 +1,12 @@
 {
   "title": "JUNGLELABᵀᴹ Storefront | Powered by JUNGLELABᵀᴹ Commerce",
   "titleTemplate": "%s - JUNGLELABᵀᴹ Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "description": "Next.js Commerce - https://junglelab.shop/",
   "openGraph": {
     "title": "JUNGLELABᵀᴹ Storefront | Powered by JUNGLELABᵀᴹ Commerce",
-    "description": "JUNGLELABᵀᴹ - https://www.nextjs.org/commerce",
+    "description": "JUNGLELABᵀᴹ - https://junglelab.shop/",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
+    "url": "https://junglelab.shop/",
     "site_name": "JUNGLELABᵀᴹ Commerce",
     "images": [
       {
@@ -18,7 +18,7 @@
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
+    "handle": "@junglelab_io",
     "site": "@nextjs",
     "cardType": "summary_large_image"
   }
