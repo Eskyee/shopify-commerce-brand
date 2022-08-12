@@ -74,14 +74,14 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <span className="text-primary">Created by</span>
             <a
               rel="noopener noreferrer"
-              href="https://junglelab.net"
-              aria-label="JugleLab.net Link"
+              href="https://vercel.com"
+              aria-label="Vercel.com Link"
               target="_blank"
               className="text-primary"
             >
               <Vercel
                 className="inline-block h-6 ml-3 text-primary"
-                alt="JugleLab.net Logo"
+                alt="Vercel.com Logo"
               />
             </a>
           </div>
