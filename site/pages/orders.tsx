@@ -32,7 +32,7 @@ export default function Orders() {
           No orders found
         </h2>
         <p className="text-accent-6 px-10 text-center pt-2">
-        Don't miss out on the latest drops - junglelab.net
+        Don't miss out on the latest drops - junglelab.io
         </p>
       </div>
     </Container>
